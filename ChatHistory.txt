@@ -1,0 +1,41 @@
+Chat history between Cursor and me for building an hourglass app
+
+0 First of all I gave Cursor the specification of the app in Japanese 
+of which translation into English is shown in HourGlassSpecificatin.txt.
+This specification is almost same as the one I had in mind when I myself created a similar hourglass app.
+Here I emphasize that I gave Cursor the Japanese version but not the English one 
+and if I gave one in English,then the following process might have resulted in another direction.
+Instructions below and annotations in Python code are also in Japanese.
+1 Cursor built the first app as soon as it read the specification,
+and then it showed the figure as in hourclockcursor1.png.
+In the figure all the components of hourglass are shown correctly,
+but they are not assembled into an hourglass. 
+At first moment seeing the figure, I couldn't get to know what they were.
+2 I gave Cursor several instructions to assemble the components into an hourglass,
+but they were in vain as shown in hourclockcursor2.png through 8.
+In hourclockcursor6.png I saw the sand falling being colored yellow,though.
+3 I told Cursor to cancel the continuous operation mode from the specification 
+and sketched an overview of the hourglass which Cursor is seemingly going to build 
+and showed it to Cursor under the name of "CursorPlanedOverview.png" and gave it an instruction to imitate it and try to assemble.
+Then, Cursor succeeded in assembling glass parts into a glass container of sand as shown in hourclockcursor9.png.
+But the frame remained disassembled into pillars and tori.
+4 I gave several instructions to connect pillars to the upper and lower tori,but in vain
+as shown in hourclockcursor9.png through 13.
+5 I gave an instruction to change colors of tori to make it sure that Cursor recognizes them correctly.
+Then,Cursor changed colors correctly as in hourclockcursor14.png.
+6 I gave several instructions to connect pillars from the lower green torus to the upper blue one in vain
+as shown in hourclockcursor15.png through 16.
+7 I gave an instruction to remove all pillars and tori.
+Then Cursor executed the instruction successfully as shown in hourclockcursor17
+which shows just a glass container of sand.
+8 I gave an instruction to bring back two tori and flatten them a little bit.
+Then, Cursor did it successfully as in hourclockcursor18.png and 19.
+9 I gave several instructions to connect just one pillar to the lower and the upper tori in vain
+as shown in hourclockcursor20.png through 22.
+10 I gave an instruction again to connect just one pillar to tori,
+then intentionally Cursor changed the method to draw the pillar and succeeded in connecting it
+as shown in hourclockcoursor23Goodjob.png.
+11 At this moment I got a view that if other three pillars were connected like as the one connecting successfully,
+then the frame would be completed and so the whole hourglass itself would be.
+12 But unfortunately Cursor told me that my no-pro quota had been exhausted.
+After then I couldn't continue this project any longer.
