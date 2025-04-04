@@ -30,11 +30,11 @@ Then Cursor executed the instruction successfully as shown in hourclockcursor17
 which shows just a glass container of sand.
 8 I gave an instruction to bring back two tori and flatten them a little bit.
 Then, Cursor did it successfully as in hourclockcursor18.png and 19.
-9 I gave several instructions to connect just one pillar to the lower and the upper tori in vain
+9 I gave several instructions to connect just one pillar to the lower and the upper tori 
+and then Cursor gradually changed the method to draw the pillar but in vain
 as shown in hourclockcursor20.png through 22.
-10 I gave an instruction again to connect just one pillar to tori,
-then intentionally Cursor changed the method to draw the pillar and succeeded in connecting it
-as shown in hourclockcoursor23Goodjob.png.
+10 I gave the same instruction again to connect the pillar to tori,
+then Cursor succeeded in connecting it as shown in hourclockcoursor23Goodjob.png.
 11 At this moment I got a view that if other three pillars were connected like as the one connecting successfully,
 then the frame would be completed and so the whole hourglass itself would be.
 12 But unfortunately Cursor told me that my no-pro quota had been exhausted.
